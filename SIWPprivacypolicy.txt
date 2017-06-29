@@ -1,0 +1,7 @@
+Should I Wear Pants Privacy Policy
+
+Should I Wear Pants utilizes OpenWeatherMap api to get access to data about your location.
+We do not store this data and we do not use this data at all.
+Thanks for using this skill.
+
+See the OpenWeatherMap privacy policy here: http://openweathermap.org/privacy-policy
